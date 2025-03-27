@@ -1,3 +1,7 @@
+![logo](https://github.com/rajat-k-singh/try.1/blob/main/github-header-image%20(2).png)
+
+
+
 # try.1
 
 <h1 align="center">Hi 👋, I'm Rajat Kumar Singh</h1>
