@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajat Kumar Singh</h1>
 <h3 align="center">Rajat | Aspiring Developer | Learning Phase</h3>
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/fullmetal-alchemist-roy-mustang-finger-heart-finger-heart-emoji-sparkle-heart-gif-26510043">
+<img align="right" alt="coding" width=300 boder-radius=10 src="[https://tenor.com/view/fullmetal-alchemist-roy-mustang-finger-heart-finger-heart-emoji-sparkle-heart-gif-26510043](https://media1.tenor.com/m/1We9mEjMgG0AAAAC/fullmetal-alchemist-roy-mustang.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-k-singh&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-k-singh" /> </p>
 
 - 🔭 I’m currently working on **carrer guidance**
